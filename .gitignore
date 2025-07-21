@@ -1,0 +1,31 @@
+# Bytecode and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+
+# Environment/secret keys
+key.json
+
+# Uploaded files and generated images
+uploads/
+images/
+test_image.jpg
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# OS metadata files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
